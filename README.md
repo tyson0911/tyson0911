@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai/Ml and all of coding 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on some AI/ML projects 
-- 📫 You can mail me at tysonmrx@gmail.com
+- 📫 For collaborations you can mail me at tysonmrx@gmail.com
 - ⚡ Fun fact: I also play chess 
 
 <!---
